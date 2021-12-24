@@ -1,0 +1,21 @@
+body {
+    background-color: #fcfcfc;
+}
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+.btn {
+    padding: 10px 30px;
+    display: inline-block;
+    border: none;
+    background: #3298a9;
+    color: #fffbfb;
+    font-weight: bold;
+    border-radius: 5px;
+}
